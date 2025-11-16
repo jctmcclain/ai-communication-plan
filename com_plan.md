@@ -4,7 +4,17 @@
 
 ### Project Overview
 
-| Name | { add name here }  | 
+| Name | { add project name here }  | 
+
+### Project Stakeholders 
+
+| Name               |  Email             |
+| ------------------ | ------------------ |
+| { add names here } | { add email addy } |
+| { add names here } | { add email addy } |
+| { add names here } | { add email addy } |
+| { add names here } | { add email addy } |
+| { add names here } | { add email addy } |
 
 #### Campaign Duration
 
@@ -13,3 +23,9 @@
 | Start Date |  { add name here } | 
 | End Date   |  { add name here } |
  
+ #### Objectives of the Campaign
+ 
+ * { add objective here }
+ * { add objective here }
+ * { add objective here }
+ * { add objective here }
