@@ -9,8 +9,13 @@ Statton Learning Commons AI Communication Plan
 * Determine technologies to aid and assist with communications (review and adapt - Tech Tool Matrix)
 * Decide on Communication Plan Structure (review and adapt - Communication Plan Template)
 * Complete mutually agreed upon Communication Plan Template
-* Identify content designers/creators
-* Organize content designers/creators
+----
+* Identify content copywriters/designers/creators
+* Organize content copywriters/designers/creators
+  A RACI - Responsible, Accountable, Consulted, and Informed - Chart may be implemented
+---
+* Establish a content template - 
+  [Why Content Is Such A Fundamental Part Of The Web Design Process — Smashing Magazine](https://docs.google.com/document/d/1vYa7XFHOb9pwwVvBwp-ja837WpBaCaZqFL8brDlhwCQ/edit?tab=t.0#heading=h.7xodnbamhwco)
 * Establish metrics for success (Click stream data / Google Analytics / Other)
 
 ## Plan Control
@@ -31,6 +36,8 @@ Statton Learning Commons AI Communication Plan
 * Feedback loops: Creating space for questions, input, and adaptation
 
 ***from [Make a communication plan: How-to, templates, tips | Canva](https://www.canva.com/docs/communication-plan/)***
+
+**Side note; may consider a journey map**
 --- 
 
 # Methods 
@@ -42,3 +49,9 @@ Statton Learning Commons AI Communication Plan
 * [Plan Document](com_plan.md)
 
 ---
+
+# Additional References/Information 
+
+* [Connecting With Users: Applying Principles Of Communication To UX Research — Smashing Magazine](https://www.smashingmagazine.com/2024/04/applying-principles-communication-ux-research/)
+* []()
+* []()
