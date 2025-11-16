@@ -29,4 +29,4 @@ Statton Learning Commons AI Communication Plan
 * [[Das Plan]]
 
 ---
-This is why I should not listen to jazz. 
+This is why I should not listen to jazz or Radiohead
