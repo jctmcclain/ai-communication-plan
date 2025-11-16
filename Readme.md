@@ -2,17 +2,19 @@ Statton Learning Commons AI Communication Plan
 
 # Task Outline (i.e. Isabel's Internship)
 
-## Planning
+## Plan Elements
+
 ### Research and Analysis 
-* Decide on communication Plan Structure 
-* Determine communication development means (Method Analysis)
-* Determine technologies to aid and assist with communications (Tech Tool Review )
+* Determine communication development means (review and adapt - Communication Method Matrix)
+* Determine technologies to aid and assist with communications (review and adapt - Tech Tool Matrix)
+* Decide on Communication Plan Structure (review and adapt - Communication Plan Template)
 * Complete mutually agreed upon Communication Plan Template
-* Identify content designers
+* Identify content designers/creators
+* Organize content designers/creators
 * Establish metrics for success (Click stream data / Google Analytics / Other)
 
 ## Plan Control
-* Identify means to manage and lead individuals contributing media assests
+* Identify means to manage and lead content designers/creators contributing media assets
 * Design Q & A checklist
 
 ## Plan Execution
@@ -37,7 +39,6 @@ Statton Learning Commons AI Communication Plan
 
 # Communication Plan Proposed Template
 
-* [Das Plan](com_plan.md)
+* [Plan Document](com_plan.md)
 
 ---
-This is why I should not listen to jazz or Radiohead
