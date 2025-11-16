@@ -27,6 +27,7 @@ Statton Learning Commons AI Communication Plan
 * Channels: From Slack to email, town halls to dashboards
 * Cadence: How often messages are shared
 * Feedback loops: Creating space for questions, input, and adaptation
+
 ***from [Make a communication plan: How-to, templates, tips | Canva](https://www.canva.com/docs/communication-plan/)***
 --- 
 
