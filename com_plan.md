@@ -52,7 +52,9 @@
 | ------------------------ | ------------------ | ------------------ | -------------------- |-------------------- |
 | {faculty,staff,students} | {why do they care} | {Low, Medium, High}| {frequency and type} | {suggested approach}|
   
-example
+
+***example***
+
 
 | Audience Group           |  Role/Interest     |  Current Awareness |  Communication Needs | Approach |
 | ------------------------ | ------------------ | ------------------ | -------------------- | -------- |
