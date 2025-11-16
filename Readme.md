@@ -13,6 +13,7 @@ Statton Learning Commons AI Communication Plan
 * Identify content copywriters/designers/creators
 * Organize content copywriters/designers/creators
   A RACI - Responsible, Accountable, Consulted, and Informed - Chart may be implemented
+  [Turning User Research Into Real Organizational Change — Smashing Magazine](https://www.smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/)
 ---
 * Establish a content template - 
   [Why Content Is Such A Fundamental Part Of The Web Design Process — Smashing Magazine](https://docs.google.com/document/d/1vYa7XFHOb9pwwVvBwp-ja837WpBaCaZqFL8brDlhwCQ/edit?tab=t.0#heading=h.7xodnbamhwco)
@@ -53,5 +54,6 @@ Statton Learning Commons AI Communication Plan
 # Additional References/Information 
 
 * [Connecting With Users: Applying Principles Of Communication To UX Research — Smashing Magazine](https://www.smashingmagazine.com/2024/04/applying-principles-communication-ux-research/)
-* []()
+* [Building A Practical UX Strategy Framework — Smashing Magazine](https://www.smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/)
+* 
 * []()
