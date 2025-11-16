@@ -22,11 +22,11 @@ Statton Learning Commons AI Communication Plan
 ---
 
 # Methods 
-* [[Communication Method Matrix]]
-* [[Tech Tool Review Matrix]]
+* [Communication Method Matrix](com_matrix.md)
+* [Tech Tool Review Matrix](techtool_matrix.md)
 
 # Communication Plan Proposed Template
-* [[Das Plan]]
+* [Das Plan](com_plan.md)
 
 ---
 This is why I should not listen to jazz or Radiohead
