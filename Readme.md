@@ -20,12 +20,22 @@ Statton Learning Commons AI Communication Plan
 * Distributed created media assets
 
 ---
+# Key Considerations in plan development 
+
+* Audience segmentation: Knowing who needs what and when
+* Messaging strategy: Crafting the right tone and content
+* Channels: From Slack to email, town halls to dashboards
+* Cadence: How often messages are shared
+* Feedback loops: Creating space for questions, input, and adaptation
+***from [Make a communication plan: How-to, templates, tips | Canva](https://www.canva.com/docs/communication-plan/)***
+--- 
 
 # Methods 
 * [Communication Method Matrix](com_matrix.md)
 * [Tech Tool Review Matrix](techtool_matrix.md)
 
 # Communication Plan Proposed Template
+
 * [Das Plan](com_plan.md)
 
 ---
